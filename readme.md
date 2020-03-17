@@ -2,13 +2,15 @@
 
 > Extracting archives made easy
 
+Fork of [decompress-cli](https://github.com/kevva/decompress-cli) to prevent [Zip Slip](https://www.npmjs.com/advisories/1217).
+
 *See [decompress](https://github.com/kevva/decompress) for the programmatic API and issue tracker.*
 
 
 ## Install
 
 ```
-$ npm install --global decompress-cli
+$ npm install --global nushio/decompress-cli
 ```
 
 
